@@ -2,7 +2,7 @@ import PdfEditor from "./PdfEditor.vue";
 import SignatureCanvas from "./SignatureCanvas.vue";
 
 
-export {
+export default {
     PdfEditor,
     SignatureCanvas
 };
